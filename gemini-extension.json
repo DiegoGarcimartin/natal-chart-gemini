@@ -1,0 +1,12 @@
+{
+  "name": "natal-chart",
+  "version": "1.0.0",
+  "description": "Calculate natal charts, planetary positions and synastry, with links to interactive charts.",
+  "mcpServers": {
+    "natal-chart": {
+      "httpUrl": "https://natalchart.co/mcp",
+      "timeout": 30000,
+      "description": "Ephemeris-based natal charts, current sky and synastry from natalchart.co"
+    }
+  }
+}
